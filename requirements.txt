@@ -1,0 +1,2 @@
+You will need to import the numpy package from python
+You will need to import the math package from python
